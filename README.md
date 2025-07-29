@@ -1,6 +1,6 @@
 <!-- Banner (Upload your banner or use a link below) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BhaveshKhaple/BhaveshKhaple/main/assets/banner.png" alt="Bhavesh's banner" />
+  <img src="banner bhavesh.png" alt="Bhavesh's banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Bhavesh Khaple</h1>
@@ -79,12 +79,16 @@
 ![GitHub Snake Dark](https://raw.githubusercontent.com/BhaveshKhaple/BhaveshKhaple/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
-
 ### 📌 Pinned Projects
 
-[![Face Attendance](https://github-readme-stats.vercel.app/api/pin/?username=BhaveshKhaple&repo=face-attendance&theme=tokyonight)](https://github.com/BhaveshKhaple/face-attendance)
+[![RAG Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=BhaveshKhaple&repo=RAG-prototype-Pipeline&theme=tokyonight)](https://github.com/BhaveshKhaple/RAG-prototype-Pipeline)
 
-[![RAG Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=BhaveshKhaple&repo=rag-pipeline&theme=tokyonight)](https://github.com/BhaveshKhaple/rag-pipeline)
+[![NLQ to SQL](https://github-readme-stats.vercel.app/api/pin/?username=BhaveshKhaple&repo=NLQ-2-SQL&theme=tokyonight)](https://github.com/BhaveshKhaple/NLQ-2-SQL)
+
+[![Team09_Cybernetics](https://github-readme-stats.vercel.app/api/pin/?username=BhaveshKhaple&repo=Team09_Cybernetics&theme=tokyonight)](https://github.com/BhaveshKhaple/Team09_Cybernetics)
+
+
+
 
 ---
 
