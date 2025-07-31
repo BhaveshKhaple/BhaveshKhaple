@@ -67,7 +67,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BhaveshKhaple&theme=tokyonight" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com?user=BhaveshKhaple&theme=tokyonight](https://streak-stats.demolab.com/?user=BhaveshKhaple&theme=tokyonight)" />
 </p>
 
 ---
