@@ -108,6 +108,7 @@
 - 🧠 [LangChain Concepts I Use](https://python.langchain.com/)
 - 🛠️ [Streamlit Deploy Guide](https://docs.streamlit.io/)
 - 🎯 [MLOps Tools I'm Learning](https://wandb.ai/)
+-  [Gradio/AWS/Apache Spark/Kafka?Airflow]
 
 ---
 
