@@ -1,0 +1,25 @@
+name: Generate GitHub Streak Image
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs once every day
+  workflow_dispatch:
+
+jobs:
+  generate-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Streak Stats
+        run: |
+          curl -o streak.png "https://github-readme-streak-stats.demolab.com?user=BhaveshKhaple&theme=tokyonight"
+
+      - name: Commit Streak Image
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add streak.png
+          git commit -m "⚡ Update GitHub streak image"
+          git push
