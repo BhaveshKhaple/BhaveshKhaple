@@ -49,7 +49,7 @@ Final-year B.Tech in AI & Data Science at MIT Aurangabad. I ship RAG pipelines, 
       <sub>Docker · GCP · CI/CD<br />W&amp;B · Model serving</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/64/neural.png" width="48" /><br />
+      <img src="https://img.icons8.com/color/64/deep-learning.png" width="48" /><br />
       <b>Deep Learning</b><br />
       <sub>PyTorch · CNNs · Transfer learning<br />Medical imaging · CV</sub>
     </td>
@@ -128,20 +128,6 @@ Final-year B.Tech in AI & Data Science at MIT Aurangabad. I ship RAG pipelines, 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=BhaveshKhaple&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhaveshKhaple&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BhaveshKhaple&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BhaveshKhaple&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BhaveshKhaple&theme=tokyonight&utcOffset=5.5" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhaveshKhaple&theme=tokyonight" />
 </p>
 
 ---
